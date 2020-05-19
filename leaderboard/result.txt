@@ -1,0 +1,1817 @@
+[33m[nodemon] 2.0.3[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node Scrapper.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node Scrapper.js`[39m
+[
+  {
+    Name: 'Name',
+    Handle: 'Handle',
+    TotalScore: 'SCORE ',
+    ProblemsSolved: 'Problems Solved ',
+    EffectiveTime: 'EFFECTIVE TIME',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 'Rank'
+  },
+  {
+    Name: '17H51A0474',
+    Handle: 'sujithkumar8897',
+    TotalScore: '400',
+    ProblemsSolved: '',
+    EffectiveTime: '7:00:12',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 1
+  },
+  {
+    Name: 'Sai Preetham Burle',
+    Handle: 'sai1824',
+    TotalScore: '333',
+    ProblemsSolved: '',
+    EffectiveTime: '6:57:58',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 2
+  },
+  {
+    Name: 'SUHAAS KORAMPALLY',
+    Handle: '18H51A0446',
+    TotalScore: '317.5',
+    ProblemsSolved: '',
+    EffectiveTime: '10:30:26',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 3
+  },
+  {
+    Name: 'B Gnana Prakash Reddy',
+    Handle: '17H51A05C9',
+    TotalScore: '313',
+    ProblemsSolved: '',
+    EffectiveTime: '9:20:08',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 4
+  },
+  {
+    Name: 'nikhil kanthala',
+    Handle: 'nikhil1543',
+    TotalScore: '310',
+    ProblemsSolved: '',
+    EffectiveTime: '7:15:49',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 5
+  },
+  {
+    Name: 'Raviteja',
+    Handle: 'raviteja_30',
+    TotalScore: '299',
+    ProblemsSolved: '',
+    EffectiveTime: '6:10:32',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 6
+  },
+  {
+    Name: '17H51A04D3',
+    Handle: 'bhanuteja15',
+    TotalScore: '275',
+    ProblemsSolved: '',
+    EffectiveTime: '4:44:45',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 7
+  },
+  {
+    Name: 'Sai prakash Reddy',
+    Handle: 'saiprakash9',
+    TotalScore: '275',
+    ProblemsSolved: '',
+    EffectiveTime: '5:33:53',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 8
+  },
+  {
+    Name: 'Mulumudi Navya Nihitha',
+    Handle: 'navya261',
+    TotalScore: '260',
+    ProblemsSolved: '',
+    EffectiveTime: '5:45:17',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 9
+  },
+  {
+    Name: '17H51A05E0',
+    Handle: '17H51A05E0',
+    TotalScore: '250',
+    ProblemsSolved: '',
+    EffectiveTime: '3:23:43',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 10
+  },
+  {
+    Name: 'Neelima Mukku',
+    Handle: 'neelima100',
+    TotalScore: '250',
+    ProblemsSolved: '',
+    EffectiveTime: '5:28:08',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 11
+  },
+  {
+    Name: 'Sandeep Reddy',
+    Handle: 'sandeep2447',
+    TotalScore: '250',
+    ProblemsSolved: '',
+    EffectiveTime: '5:31:02',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 12
+  },
+  {
+    Name: 'Paidipala Supraja',
+    Handle: 'paidipala',
+    TotalScore: '250',
+    ProblemsSolved: '',
+    EffectiveTime: '5:49:12',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 13
+  },
+  {
+    Name: 'Ambati Gayatri',
+    Handle: '18H51A0502',
+    TotalScore: '225',
+    ProblemsSolved: '',
+    EffectiveTime: '2:13:40',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 14
+  },
+  {
+    Name: 'vraghuvaran123',
+    Handle: 'vraghuvaran123',
+    TotalScore: '225',
+    ProblemsSolved: '',
+    EffectiveTime: '3:06:50',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 15
+  },
+  {
+    Name: 'G Praveen Kumar',
+    Handle: 'gangapurampraveen7',
+    TotalScore: '225',
+    ProblemsSolved: '',
+    EffectiveTime: '3:27:49',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 16
+  },
+  {
+    Name: 'Vishnuvardhan Reddy',
+    Handle: 'vishnuvardhan47',
+    TotalScore: '225',
+    ProblemsSolved: '',
+    EffectiveTime: '3:32:51',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 17
+  },
+  {
+    Name: '17H51A05E7',
+    Handle: '17H51A05E7',
+    TotalScore: '225',
+    ProblemsSolved: '',
+    EffectiveTime: '5:25:42',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 18
+  },
+  {
+    Name: 'Ng build --prod',
+    Handle: 'zakiuddin321',
+    TotalScore: '225',
+    ProblemsSolved: '',
+    EffectiveTime: '8:07:43',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 19
+  },
+  {
+    Name: 'P.S.N.Chandra Sekhar',
+    Handle: 'chandubobby592',
+    TotalScore: '218',
+    ProblemsSolved: '',
+    EffectiveTime: '3:55:29',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 20
+  },
+  {
+    Name: 'Maduthala Vijay',
+    Handle: 'vickyvijay169',
+    TotalScore: '212.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:15:13',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 21
+  },
+  {
+    Name: '17H51A05N9',
+    Handle: 'sarraju',
+    TotalScore: '212.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:19:42',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 22
+  },
+  {
+    Name: '17H51A04K4',
+    Handle: 'ankitdoddi',
+    TotalScore: '212.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:56:22',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 23
+  },
+  {
+    Name: '17h51a05e3',
+    Handle: 'vkoduri555',
+    TotalScore: '212.5',
+    ProblemsSolved: '',
+    EffectiveTime: '6:45:24',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 24
+  },
+  {
+    Name: 'Thumuluri Sai Sarika',
+    Handle: '17wh1a0519',
+    TotalScore: '200',
+    ProblemsSolved: '',
+    EffectiveTime: '3:45:57',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 25
+  },
+  {
+    Name: 'Charitha Bhuma',
+    Handle: 'bhuma10',
+    TotalScore: '193',
+    ProblemsSolved: '',
+    EffectiveTime: '3:58:27',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 26
+  },
+  {
+    Name: 'Pranathi Ganti',
+    Handle: 'pranathi.ganti',
+    TotalScore: '187.5',
+    ProblemsSolved: '',
+    EffectiveTime: '2:56:04',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 27
+  },
+  {
+    Name: 'Vanga Balayesu',
+    Handle: 'balayesu',
+    TotalScore: '187.5',
+    ProblemsSolved: '',
+    EffectiveTime: '3:35:12',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 28
+  },
+  {
+    Name: 'Bommidi Deekshith',
+    Handle: 'deekshith42',
+    TotalScore: '180.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:21:08',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 29
+  },
+  {
+    Name: 'trishali gaddipati',
+    Handle: 'gtrishali',
+    TotalScore: '176.5',
+    ProblemsSolved: '',
+    EffectiveTime: '6:52:12',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 30
+  },
+  {
+    Name: 'AKHIL G',
+    Handle: 'akhil.g.5775',
+    TotalScore: '175',
+    ProblemsSolved: '',
+    EffectiveTime: '4:43:56',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 31
+  },
+  {
+    Name: 'Pathakota Meghana',
+    Handle: 'meghana507',
+    TotalScore: '166',
+    ProblemsSolved: '',
+    EffectiveTime: '4:17:38',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 32
+  },
+  {
+    Name: 'Hari Prasanna',
+    Handle: 'hari1285',
+    TotalScore: '164',
+    ProblemsSolved: '',
+    EffectiveTime: '3:52:05',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 33
+  },
+  {
+    Name: 'Shiva prasad',
+    Handle: 'shiva763',
+    TotalScore: '164',
+    ProblemsSolved: '',
+    EffectiveTime: '8:30:32',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 34
+  },
+  {
+    Name: 'SVN Sai Tejaswini',
+    Handle: 'saitejaswini1',
+    TotalScore: '162.5',
+    ProblemsSolved: '',
+    EffectiveTime: '1:42:09',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 35
+  },
+  {
+    Name: 'Gousiya Fathima',
+    Handle: 'gousiya2',
+    TotalScore: '162.5',
+    ProblemsSolved: '',
+    EffectiveTime: '2:56:58',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 36
+  },
+  {
+    Name: 'Hruthvik Pasumarthy',
+    Handle: 'hruthvik1',
+    TotalScore: '162.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:23:00',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 37
+  },
+  {
+    Name: 'Bandaru Santhosh kumar',
+    Handle: 'santhosh909',
+    TotalScore: '162.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:23:01',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 38
+  },
+  {
+    Name: 'Jahnavi Sai Sirisha Chitta',
+    Handle: 'jahnavi94',
+    TotalScore: '153',
+    ProblemsSolved: '',
+    EffectiveTime: '5:40:50',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 39
+  },
+  {
+    Name: 'Nampally Anurag',
+    Handle: 'nampally3',
+    TotalScore: '151.5',
+    ProblemsSolved: '',
+    EffectiveTime: '3:16:42',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 40
+  },
+  {
+    Name: 'sahithikannaiahgari',
+    Handle: 'sahithi235',
+    TotalScore: '151.5',
+    ProblemsSolved: '',
+    EffectiveTime: '5:16:10',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 41
+  },
+  {
+    Name: 'Samanapally Shivani',
+    Handle: 'samanapallyshivani',
+    TotalScore: '151.5',
+    ProblemsSolved: '',
+    EffectiveTime: '6:17:04',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 42
+  },
+  {
+    Name: 'Varun Rudrangi',
+    Handle: 'varun.rudrangi',
+    TotalScore: '150',
+    ProblemsSolved: '',
+    EffectiveTime: '2:06:51',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 43
+  },
+  {
+    Name: 'Rajeshwar Rao',
+    Handle: 'rajeshwar34',
+    TotalScore: '150',
+    ProblemsSolved: '',
+    EffectiveTime: '3:04:06',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 44
+  },
+  {
+    Name: 'ALLA DHEERAJ',
+    Handle: 'dheeraj624',
+    TotalScore: '150',
+    ProblemsSolved: '',
+    EffectiveTime: '5:56:04',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 45
+  },
+  {
+    Name: 'Ramya V.V.S.S',
+    Handle: 'ramya1488',
+    TotalScore: '150',
+    ProblemsSolved: '',
+    EffectiveTime: '6:02:10',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 46
+  },
+  {
+    Name: '17H51A04C2',
+    Handle: 'ajay2235',
+    TotalScore: '143',
+    ProblemsSolved: '',
+    EffectiveTime: '2:38:05',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 47
+  },
+  {
+    Name: 'Goutham Kancherla',
+    Handle: 'kancherlagoutham',
+    TotalScore: '143',
+    ProblemsSolved: '',
+    EffectiveTime: '3:22:35',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 48
+  },
+  {
+    Name: 'Harry Styles',
+    Handle: 'saratkchandra24',
+    TotalScore: '140',
+    ProblemsSolved: '',
+    EffectiveTime: '2:31:06',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 49
+  },
+  {
+    Name: 'Anurag Pola',
+    Handle: 'anurag1554',
+    TotalScore: '139',
+    ProblemsSolved: '',
+    EffectiveTime: '2:30:43',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 50
+  },
+  {
+    Name: '17H51A04P4',
+    Handle: 'tadepalli4',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '1:35:38',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 51
+  },
+  {
+    Name: '17H51A0585',
+    Handle: 'kurashiva11',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '2:29:33',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 52
+  },
+  {
+    Name: 'mohammed sohail',
+    Handle: 'azaan1',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '2:48:54',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 53
+  },
+  {
+    Name: 'RAJA SAI BANDARU',
+    Handle: 'rajasai2',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '2:49:22',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 54
+  },
+  {
+    Name: 'im_a_negative1',
+    Handle: 'koteswararao23',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '3:00:34',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 55
+  },
+  {
+    Name: 'Akash Kumar Singh',
+    Handle: 'singhakashkumar.a',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '3:09:07',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 56
+  },
+  {
+    Name: '17H51A05F7',
+    Handle: 'sahithi197',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '3:12:37',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 57
+  },
+  {
+    Name: 'kavyaganji19',
+    Handle: 'kavyaganji19',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '3:22:11',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 58
+  },
+  {
+    Name: 'Manikanthreddy Police',
+    Handle: 'manikanthreddy',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:00:32',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 59
+  },
+  {
+    Name: 'Harshavardhan Reddy',
+    Handle: 'harshavardhan78',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:04:13',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 60
+  },
+  {
+    Name: 'Padigela Hritik',
+    Handle: 'hritik88',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:46:00',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 61
+  },
+  {
+    Name: '18H51A0543',
+    Handle: '18H51A0543',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '5:17:11',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 62
+  },
+  {
+    Name: '17h51a05h9',
+    Handle: 'akshita156',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '5:23:45',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 63
+  },
+  {
+    Name: '17H51A0536',
+    Handle: 'sairam178',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '5:47:04',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 64
+  },
+  {
+    Name: '17H51A05J2',
+    Handle: 'haneesha9',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '5:57:41',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 65
+  },
+  {
+    Name: '17h51a05b7',
+    Handle: 'jahnavithoram999',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '6:11:02',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 66
+  },
+  {
+    Name: '17H51A04P6',
+    Handle: 'ashwinthurerao2310',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '0:46:42',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 67
+  },
+  {
+    Name: 'Damera vishal kumar',
+    Handle: 'dameravishal',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '0:52:11',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 68
+  },
+  {
+    Name: 'Jaini Sairajesh',
+    Handle: 'sairajesh2',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '0:59:57',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 69
+  },
+  {
+    Name: 'Tarun Alfie',
+    Handle: '18H51A05A7',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:07:18',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 70
+  },
+  {
+    Name: 'Radha Reddy Manish Reddy',
+    Handle: 'manish2403',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:07:21',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 71
+  },
+  {
+    Name: '17h51a04p8',
+    Handle: 'nikhilrahul40',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:07:38',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 72
+  },
+  {
+    Name: 'Nitish Jain',
+    Handle: 'nitish457',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:14:18',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 73
+  },
+  {
+    Name: 'Sai Kiran Shrinath',
+    Handle: '18H51A05B6',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:15:04',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 74
+  },
+  {
+    Name: 'Shivateja Kura',
+    Handle: 'shivatejagutha',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:24:40',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 75
+  },
+  {
+    Name: '18H51A05B2',
+    Handle: '18H51A05B2',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:26:46',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 76
+  },
+  {
+    Name: 'devisettysaisarika',
+    Handle: 'devisettysaisarika',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:26:51',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 77
+  },
+  {
+    Name: 'paruchuri venkat',
+    Handle: 'venkat15112000',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:27:10',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 78
+  },
+  {
+    Name: 'Padmasree A',
+    Handle: 'padmasree7',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:27:11',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 79
+  },
+  {
+    Name: '17H51A05H3',
+    Handle: 'durgasri',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:29:13',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 80
+  },
+  {
+    Name: 'B V N Sai Manish Kumar',
+    Handle: 'manishkumar.burle',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:36:15',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 81
+  },
+  {
+    Name: 'Aftab Shaik',
+    Handle: 'iamaftab01',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:36:47',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 82
+  },
+  {
+    Name: 'Nagasai Mudarapu',
+    Handle: 'nagasai37',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:37:42',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 83
+  },
+  {
+    Name: '17H51A05D8',
+    Handle: 'aishwaryagumastha18',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:38:04',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 84
+  },
+  {
+    Name: 'PADHURI NAVANEETH REDDY',
+    Handle: 'navaneethreddy1',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:38:10',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 85
+  },
+  {
+    Name: 'KASMOLA SAKSHITH REDDY',
+    Handle: 'sakshith1',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:41:44',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 86
+  },
+  {
+    Name: 'kodumuru Sankeerthana',
+    Handle: 'sankeerthana15',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:49:20',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 87
+  },
+  {
+    Name: 'Etukala Jaswanth Reddy',
+    Handle: 'jaswanthreddy3',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:00:19',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 88
+  },
+  {
+    Name: 'MANNE LIKITHA',
+    Handle: '17wh1a0210',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:06:12',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 89
+  },
+  {
+    Name: 'Sethu Madhav M',
+    Handle: 'sethumadhav2509',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:06:26',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 90
+  },
+  {
+    Name: 'Soumya Pabbishetty',
+    Handle: 'soumyashetty',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:08:54',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 91
+  },
+  {
+    Name: 'Abhigna',
+    Handle: 'abhigna28',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:10:07',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 92
+  },
+  {
+    Name: 'Lohit',
+    Handle: 'lohit35',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:10:15',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 93
+  },
+  {
+    Name: 'chinthala shoukthik sai',
+    Handle: 'chinthala.shoukthiksai',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:23:48',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 94
+  },
+  {
+    Name: 'Sai Kumar',
+    Handle: '18H51A0469',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:23:59',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 95
+  },
+  {
+    Name: '17h51a04c3',
+    Handle: 'akhila1234',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:28:24',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 96
+  },
+  {
+    Name: 'Pandarwaday Laxman',
+    Handle: 'TheDecoder',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:30:13',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 97
+  },
+  {
+    Name: 'Amruth G',
+    Handle: 'amruth34',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:35:59',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 98
+  },
+  {
+    Name: 'Sai Shreya Pola',
+    Handle: 'pola_saishreya',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:38:10',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 99
+  },
+  ... 343 more items
+]
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node Scrapper.js`[39m
+[
+  {
+    Name: 'Name',
+    Handle: 'Handle',
+    TotalScore: 'SCORE ',
+    ProblemsSolved: 'Problems Solved ',
+    EffectiveTime: 'EFFECTIVE TIME',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 'Rank'
+  },
+  {
+    Name: '17H51A0474',
+    Handle: 'sujithkumar8897',
+    TotalScore: '400',
+    ProblemsSolved: '',
+    EffectiveTime: '7:00:12',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 1
+  },
+  {
+    Name: 'Sai Preetham Burle',
+    Handle: 'sai1824',
+    TotalScore: '333',
+    ProblemsSolved: '',
+    EffectiveTime: '6:57:58',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 2
+  },
+  {
+    Name: 'SUHAAS KORAMPALLY',
+    Handle: '18H51A0446',
+    TotalScore: '317.5',
+    ProblemsSolved: '',
+    EffectiveTime: '10:30:26',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 3
+  },
+  {
+    Name: 'B Gnana Prakash Reddy',
+    Handle: '17H51A05C9',
+    TotalScore: '313',
+    ProblemsSolved: '',
+    EffectiveTime: '9:20:08',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 4
+  },
+  {
+    Name: 'nikhil kanthala',
+    Handle: 'nikhil1543',
+    TotalScore: '310',
+    ProblemsSolved: '',
+    EffectiveTime: '7:15:49',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 5
+  },
+  {
+    Name: 'Raviteja',
+    Handle: 'raviteja_30',
+    TotalScore: '299',
+    ProblemsSolved: '',
+    EffectiveTime: '6:10:32',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 6
+  },
+  {
+    Name: '17H51A04D3',
+    Handle: 'bhanuteja15',
+    TotalScore: '275',
+    ProblemsSolved: '',
+    EffectiveTime: '4:44:45',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 7
+  },
+  {
+    Name: 'Sai prakash Reddy',
+    Handle: 'saiprakash9',
+    TotalScore: '275',
+    ProblemsSolved: '',
+    EffectiveTime: '5:33:53',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 8
+  },
+  {
+    Name: 'Mulumudi Navya Nihitha',
+    Handle: 'navya261',
+    TotalScore: '260',
+    ProblemsSolved: '',
+    EffectiveTime: '5:45:17',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 9
+  },
+  {
+    Name: '17H51A05E0',
+    Handle: '17H51A05E0',
+    TotalScore: '250',
+    ProblemsSolved: '',
+    EffectiveTime: '3:23:43',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 10
+  },
+  {
+    Name: 'Neelima Mukku',
+    Handle: 'neelima100',
+    TotalScore: '250',
+    ProblemsSolved: '',
+    EffectiveTime: '5:28:08',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 11
+  },
+  {
+    Name: 'Sandeep Reddy',
+    Handle: 'sandeep2447',
+    TotalScore: '250',
+    ProblemsSolved: '',
+    EffectiveTime: '5:31:02',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 12
+  },
+  {
+    Name: 'Paidipala Supraja',
+    Handle: 'paidipala',
+    TotalScore: '250',
+    ProblemsSolved: '',
+    EffectiveTime: '5:49:12',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 13
+  },
+  {
+    Name: 'Ambati Gayatri',
+    Handle: '18H51A0502',
+    TotalScore: '225',
+    ProblemsSolved: '',
+    EffectiveTime: '2:13:40',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 14
+  },
+  {
+    Name: 'vraghuvaran123',
+    Handle: 'vraghuvaran123',
+    TotalScore: '225',
+    ProblemsSolved: '',
+    EffectiveTime: '3:06:50',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 15
+  },
+  {
+    Name: 'G Praveen Kumar',
+    Handle: 'gangapurampraveen7',
+    TotalScore: '225',
+    ProblemsSolved: '',
+    EffectiveTime: '3:27:49',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 16
+  },
+  {
+    Name: 'Vishnuvardhan Reddy',
+    Handle: 'vishnuvardhan47',
+    TotalScore: '225',
+    ProblemsSolved: '',
+    EffectiveTime: '3:32:51',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 17
+  },
+  {
+    Name: '17H51A05E7',
+    Handle: '17H51A05E7',
+    TotalScore: '225',
+    ProblemsSolved: '',
+    EffectiveTime: '5:25:42',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 18
+  },
+  {
+    Name: 'Ng build --prod',
+    Handle: 'zakiuddin321',
+    TotalScore: '225',
+    ProblemsSolved: '',
+    EffectiveTime: '8:07:43',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 19
+  },
+  {
+    Name: 'P.S.N.Chandra Sekhar',
+    Handle: 'chandubobby592',
+    TotalScore: '218',
+    ProblemsSolved: '',
+    EffectiveTime: '3:55:29',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 20
+  },
+  {
+    Name: 'Maduthala Vijay',
+    Handle: 'vickyvijay169',
+    TotalScore: '212.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:15:13',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 21
+  },
+  {
+    Name: '17H51A05N9',
+    Handle: 'sarraju',
+    TotalScore: '212.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:19:42',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 22
+  },
+  {
+    Name: '17H51A04K4',
+    Handle: 'ankitdoddi',
+    TotalScore: '212.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:56:22',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 23
+  },
+  {
+    Name: '17h51a05e3',
+    Handle: 'vkoduri555',
+    TotalScore: '212.5',
+    ProblemsSolved: '',
+    EffectiveTime: '6:45:24',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 24
+  },
+  {
+    Name: 'Thumuluri Sai Sarika',
+    Handle: '17wh1a0519',
+    TotalScore: '200',
+    ProblemsSolved: '',
+    EffectiveTime: '3:45:57',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 25
+  },
+  {
+    Name: 'Charitha Bhuma',
+    Handle: 'bhuma10',
+    TotalScore: '193',
+    ProblemsSolved: '',
+    EffectiveTime: '3:58:27',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 26
+  },
+  {
+    Name: 'Pranathi Ganti',
+    Handle: 'pranathi.ganti',
+    TotalScore: '187.5',
+    ProblemsSolved: '',
+    EffectiveTime: '2:56:04',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 27
+  },
+  {
+    Name: 'Vanga Balayesu',
+    Handle: 'balayesu',
+    TotalScore: '187.5',
+    ProblemsSolved: '',
+    EffectiveTime: '3:35:12',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 28
+  },
+  {
+    Name: 'Bommidi Deekshith',
+    Handle: 'deekshith42',
+    TotalScore: '180.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:21:08',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 29
+  },
+  {
+    Name: 'trishali gaddipati',
+    Handle: 'gtrishali',
+    TotalScore: '176.5',
+    ProblemsSolved: '',
+    EffectiveTime: '6:52:12',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 30
+  },
+  {
+    Name: 'AKHIL G',
+    Handle: 'akhil.g.5775',
+    TotalScore: '175',
+    ProblemsSolved: '',
+    EffectiveTime: '4:43:56',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 31
+  },
+  {
+    Name: 'Pathakota Meghana',
+    Handle: 'meghana507',
+    TotalScore: '166',
+    ProblemsSolved: '',
+    EffectiveTime: '4:17:38',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 32
+  },
+  {
+    Name: 'Hari Prasanna',
+    Handle: 'hari1285',
+    TotalScore: '164',
+    ProblemsSolved: '',
+    EffectiveTime: '3:52:05',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 33
+  },
+  {
+    Name: 'Shiva prasad',
+    Handle: 'shiva763',
+    TotalScore: '164',
+    ProblemsSolved: '',
+    EffectiveTime: '8:30:32',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 34
+  },
+  {
+    Name: 'SVN Sai Tejaswini',
+    Handle: 'saitejaswini1',
+    TotalScore: '162.5',
+    ProblemsSolved: '',
+    EffectiveTime: '1:42:09',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 35
+  },
+  {
+    Name: 'Gousiya Fathima',
+    Handle: 'gousiya2',
+    TotalScore: '162.5',
+    ProblemsSolved: '',
+    EffectiveTime: '2:56:58',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 36
+  },
+  {
+    Name: 'Hruthvik Pasumarthy',
+    Handle: 'hruthvik1',
+    TotalScore: '162.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:23:00',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 37
+  },
+  {
+    Name: 'Bandaru Santhosh kumar',
+    Handle: 'santhosh909',
+    TotalScore: '162.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:23:01',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 38
+  },
+  {
+    Name: 'Jahnavi Sai Sirisha Chitta',
+    Handle: 'jahnavi94',
+    TotalScore: '153',
+    ProblemsSolved: '',
+    EffectiveTime: '5:40:50',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 39
+  },
+  {
+    Name: 'Nampally Anurag',
+    Handle: 'nampally3',
+    TotalScore: '151.5',
+    ProblemsSolved: '',
+    EffectiveTime: '3:16:42',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 40
+  },
+  {
+    Name: 'sahithikannaiahgari',
+    Handle: 'sahithi235',
+    TotalScore: '151.5',
+    ProblemsSolved: '',
+    EffectiveTime: '5:16:10',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 41
+  },
+  {
+    Name: 'Samanapally Shivani',
+    Handle: 'samanapallyshivani',
+    TotalScore: '151.5',
+    ProblemsSolved: '',
+    EffectiveTime: '6:17:04',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 42
+  },
+  {
+    Name: 'Varun Rudrangi',
+    Handle: 'varun.rudrangi',
+    TotalScore: '150',
+    ProblemsSolved: '',
+    EffectiveTime: '2:06:51',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 43
+  },
+  {
+    Name: 'Rajeshwar Rao',
+    Handle: 'rajeshwar34',
+    TotalScore: '150',
+    ProblemsSolved: '',
+    EffectiveTime: '3:04:06',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 44
+  },
+  {
+    Name: 'ALLA DHEERAJ',
+    Handle: 'dheeraj624',
+    TotalScore: '150',
+    ProblemsSolved: '',
+    EffectiveTime: '5:56:04',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 45
+  },
+  {
+    Name: 'Ramya V.V.S.S',
+    Handle: 'ramya1488',
+    TotalScore: '150',
+    ProblemsSolved: '',
+    EffectiveTime: '6:02:10',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 46
+  },
+  {
+    Name: '17H51A04C2',
+    Handle: 'ajay2235',
+    TotalScore: '143',
+    ProblemsSolved: '',
+    EffectiveTime: '2:38:05',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 47
+  },
+  {
+    Name: 'Goutham Kancherla',
+    Handle: 'kancherlagoutham',
+    TotalScore: '143',
+    ProblemsSolved: '',
+    EffectiveTime: '3:22:35',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 48
+  },
+  {
+    Name: 'Harry Styles',
+    Handle: 'saratkchandra24',
+    TotalScore: '140',
+    ProblemsSolved: '',
+    EffectiveTime: '2:31:06',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 49
+  },
+  {
+    Name: 'Anurag Pola',
+    Handle: 'anurag1554',
+    TotalScore: '139',
+    ProblemsSolved: '',
+    EffectiveTime: '2:30:43',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 50
+  },
+  {
+    Name: '17H51A04P4',
+    Handle: 'tadepalli4',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '1:35:38',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 51
+  },
+  {
+    Name: '17H51A0585',
+    Handle: 'kurashiva11',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '2:29:33',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 52
+  },
+  {
+    Name: 'mohammed sohail',
+    Handle: 'azaan1',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '2:48:54',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 53
+  },
+  {
+    Name: 'RAJA SAI BANDARU',
+    Handle: 'rajasai2',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '2:49:22',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 54
+  },
+  {
+    Name: 'im_a_negative1',
+    Handle: 'koteswararao23',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '3:00:34',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 55
+  },
+  {
+    Name: 'Akash Kumar Singh',
+    Handle: 'singhakashkumar.a',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '3:09:07',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 56
+  },
+  {
+    Name: '17H51A05F7',
+    Handle: 'sahithi197',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '3:12:37',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 57
+  },
+  {
+    Name: 'kavyaganji19',
+    Handle: 'kavyaganji19',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '3:22:11',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 58
+  },
+  {
+    Name: 'Manikanthreddy Police',
+    Handle: 'manikanthreddy',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:00:32',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 59
+  },
+  {
+    Name: 'Harshavardhan Reddy',
+    Handle: 'harshavardhan78',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:04:13',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 60
+  },
+  {
+    Name: 'Padigela Hritik',
+    Handle: 'hritik88',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '4:46:00',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 61
+  },
+  {
+    Name: '18H51A0543',
+    Handle: '18H51A0543',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '5:17:11',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 62
+  },
+  {
+    Name: '17h51a05h9',
+    Handle: 'akshita156',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '5:23:45',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 63
+  },
+  {
+    Name: '17H51A0536',
+    Handle: 'sairam178',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '5:47:04',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 64
+  },
+  {
+    Name: '17H51A05J2',
+    Handle: 'haneesha9',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '5:57:41',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 65
+  },
+  {
+    Name: '17h51a05b7',
+    Handle: 'jahnavithoram999',
+    TotalScore: '137.5',
+    ProblemsSolved: '',
+    EffectiveTime: '6:11:02',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 66
+  },
+  {
+    Name: '17H51A04P6',
+    Handle: 'ashwinthurerao2310',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '0:46:42',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 67
+  },
+  {
+    Name: 'Damera vishal kumar',
+    Handle: 'dameravishal',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '0:52:11',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 68
+  },
+  {
+    Name: 'Jaini Sairajesh',
+    Handle: 'sairajesh2',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '0:59:57',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 69
+  },
+  {
+    Name: 'Tarun Alfie',
+    Handle: '18H51A05A7',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:07:18',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 70
+  },
+  {
+    Name: 'Radha Reddy Manish Reddy',
+    Handle: 'manish2403',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:07:21',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 71
+  },
+  {
+    Name: '17h51a04p8',
+    Handle: 'nikhilrahul40',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:07:38',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 72
+  },
+  {
+    Name: 'Nitish Jain',
+    Handle: 'nitish457',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:14:18',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 73
+  },
+  {
+    Name: 'Sai Kiran Shrinath',
+    Handle: '18H51A05B6',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:15:04',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 74
+  },
+  {
+    Name: 'Shivateja Kura',
+    Handle: 'shivatejagutha',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:24:40',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 75
+  },
+  {
+    Name: '18H51A05B2',
+    Handle: '18H51A05B2',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:26:46',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 76
+  },
+  {
+    Name: 'devisettysaisarika',
+    Handle: 'devisettysaisarika',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:26:51',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 77
+  },
+  {
+    Name: 'paruchuri venkat',
+    Handle: 'venkat15112000',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:27:10',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 78
+  },
+  {
+    Name: 'Padmasree A',
+    Handle: 'padmasree7',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:27:11',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 79
+  },
+  {
+    Name: '17H51A05H3',
+    Handle: 'durgasri',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:29:13',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 80
+  },
+  {
+    Name: 'B V N Sai Manish Kumar',
+    Handle: 'manishkumar.burle',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:36:15',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 81
+  },
+  {
+    Name: 'Aftab Shaik',
+    Handle: 'iamaftab01',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:36:47',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 82
+  },
+  {
+    Name: 'Nagasai Mudarapu',
+    Handle: 'nagasai37',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:37:42',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 83
+  },
+  {
+    Name: '17H51A05D8',
+    Handle: 'aishwaryagumastha18',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:38:04',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 84
+  },
+  {
+    Name: 'PADHURI NAVANEETH REDDY',
+    Handle: 'navaneethreddy1',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:38:10',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 85
+  },
+  {
+    Name: 'KASMOLA SAKSHITH REDDY',
+    Handle: 'sakshith1',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:41:44',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 86
+  },
+  {
+    Name: 'kodumuru Sankeerthana',
+    Handle: 'sankeerthana15',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '1:49:20',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 87
+  },
+  {
+    Name: 'Etukala Jaswanth Reddy',
+    Handle: 'jaswanthreddy3',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:00:19',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 88
+  },
+  {
+    Name: 'MANNE LIKITHA',
+    Handle: '17wh1a0210',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:06:12',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 89
+  },
+  {
+    Name: 'Sethu Madhav M',
+    Handle: 'sethumadhav2509',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:06:26',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 90
+  },
+  {
+    Name: 'Soumya Pabbishetty',
+    Handle: 'soumyashetty',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:08:54',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 91
+  },
+  {
+    Name: 'Abhigna',
+    Handle: 'abhigna28',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:10:07',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 92
+  },
+  {
+    Name: 'Lohit',
+    Handle: 'lohit35',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:10:15',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 93
+  },
+  {
+    Name: 'chinthala shoukthik sai',
+    Handle: 'chinthala.shoukthiksai',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:23:48',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 94
+  },
+  {
+    Name: 'Sai Kumar',
+    Handle: '18H51A0469',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:23:59',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 95
+  },
+  {
+    Name: '17h51a04c3',
+    Handle: 'akhila1234',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:28:24',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 96
+  },
+  {
+    Name: 'Pandarwaday Laxman',
+    Handle: 'TheDecoder',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:30:13',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 97
+  },
+  {
+    Name: 'Amruth G',
+    Handle: 'amruth34',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:35:59',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 98
+  },
+  {
+    Name: 'Sai Shreya Pola',
+    Handle: 'pola_saishreya',
+    TotalScore: '125',
+    ProblemsSolved: '',
+    EffectiveTime: '2:38:10',
+    Problems: [ [Object], [Object], [Object], [Object], [Object] ],
+    Rank: 99
+  },
+  ... 343 more items
+]
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? 
